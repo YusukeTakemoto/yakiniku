@@ -59,13 +59,13 @@ ul.menu ul li a {   /* ※B */
    font-weight: normal; /* 太字にはしない */
 }
 ul.menu ul li a:hover {   /* ※C */
-   background-color: #E7E1E1; /* サブメニュー項目にマウスが載ったときの背景色(淡い黄色) */
-   color: #000000;            /* サブメニュー項目にマウスが載ったときの文字色(濃い緑色) */
+   background-color: #E7E1E1; /* サブメニュー項目にマウスが載ったときの背景色 */
+   color: #000000;            /* サブメニュー項目にマウスが載ったときの文字色 */
 }
 
 ul.menu a:hover {
-   background-color: #e7e1e1; /* メニュー項目にマウスが載ったときの背景色(淡いピンク) */
-   color: #000000;            /* メニュー項目にマウスが載ったときの文字色(濃い赤色) */
+   background-color: #e7e1e1; /* メニュー項目にマウスが載ったときの背景色 */
+   color: #000000;            /* メニュー項目にマウスが載ったときの文字色 */
 }
 
 ul.ddmenu a {
