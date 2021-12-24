@@ -7820,7 +7820,7 @@ textarea.form-control-lg {
 .bg-primary1 {
   --bs-bg-opacity: 1;
   /*background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important; */
-	background-image:url("img/sitirin.png");
+	background-image:url("sitirin.png");
 	background-repeat:no-repeat;
 	background-size:cover;
 }
